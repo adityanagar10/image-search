@@ -12,3 +12,13 @@ Hi, This is *Aditya* and this is my react based web-app. The main functionality 
 
 <h1><b>IMPORTANT!!<b></h1>
   <p>Due to some technical errors, my WebApp was unable to load but I have attached screenshots and screenrecords below: </p>
+  <img src='/images/homepage.PNG' />
+  <hr size='1' noshade />
+  <img src='/images/search.PNG' />
+  <hr size='1' noshade />
+  <p> I did deploy the WebApp but it didn't seem to work.
+  <img src='/images/fail.PNG' />
+  
+  <p> I have provided a screenrecording in the repository as well! </p> <br>
+  <h2>Thank You!!
+  
